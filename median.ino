@@ -2,7 +2,7 @@
 #define PIN_LED 9
 #define PIN_TRIG 12
 #define PIN_ECHO 13
-
+ 
 // configurable parameters
 #define SND_VEL 346.0 // sound velocity at 24 celsius degree (unit: m/s)
 #define INTERVAL 25 // sampling interval (unit: ms)
